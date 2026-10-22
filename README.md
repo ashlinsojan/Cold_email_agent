@@ -22,7 +22,7 @@ Install these before running locally:
 
 ---
 
-## Project Structure
+## Project Structure.
 
 ```text
 cold-email-agent/
